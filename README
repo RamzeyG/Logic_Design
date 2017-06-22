@@ -1,6 +1,12 @@
-# Multi-Media-Logic
+# Logic_Deisgn
 My experience with designing gate-level diagrams for modern computers
 
 IMPORTANT:
-In order to view these projects you must use a program called Multi-Media Logic. Please download the set up kit at the following link:
+In order to view these ".lgi" projects you must use a program called Multi-Media Logic. Please download the set up kit at the following link:
 http://www.softronix.com/logic.html
+
+Xilinx ISE is used for Other Logic Design projects
+
+I went ahead and Screen-shotted all my projects so you
+do not need to download Mult-Media Logic or Xilinix ISE.
+Each project has its own "Screenshot" folder.
