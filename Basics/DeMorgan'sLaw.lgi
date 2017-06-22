@@ -8,14 +8,8 @@
 7 381 446 430 397 2 1
 22 16 44 158 20 0 \NUL
 Ramzey Ghanaim
-22 12 68 178 44 0 \NUL
-rghanaim@ucsc.edu
-22 12 92 201 68 0 \NUL
-Due Date: April 12, 2015
-22 12 139 347 115 0 \NUL
+22 16 71 351 47 0 \NUL
 Lab 1: Intro to Logic with Multimedia Logic
-22 14 115 174 91 0 \NUL
-Section: 5, TA: Hany
 22 176 185 577 161 0 \NUL
 Part A: Warm-up: Demonstrating De Morgan's Law
 3 416 301 465 252 0 0
@@ -100,12 +94,6 @@ repliate the same logic above with only NAND gates.
 10 161 901 178 884 0 0
 22 16 44 158 20 0 \NUL
 Ramzey Ghanaim
-22 12 68 178 44 0 \NUL
-rghanaim@ucsc.edu
-22 12 92 201 68 0 \NUL
-Due Date: April 12, 2015
-22 13 116 177 92 0 \NUL
-Section: 5, TA:  Hany
 22 581 563 745 539 0 \NUL
 Transistor Count: 36
 22 16 1250 180 1226 0 \NUL
